@@ -10,7 +10,7 @@ function setCart(c) {
 }
 
 function addToCart(item) {
- [{itemName: "Banannas", itemPrice: 17} ]
+ [ { itemName:"bananas", itemPrice: 17 }, { itemName:"pancake batter",itemPrice: 5 }, { itemName:"eggs", itemPrice: 49 }]
 }
 
 function viewCart() {
