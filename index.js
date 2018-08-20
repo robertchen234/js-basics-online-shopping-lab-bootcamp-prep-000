@@ -10,7 +10,7 @@ function setCart(c) {
 }
 
 function addToCart(item) {
- array.push(item);
+ [{itemName: "Banannas", itemPrice: 17} ]
 }
 
 function viewCart() {
